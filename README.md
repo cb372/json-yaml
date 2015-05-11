@@ -1,4 +1,4 @@
-# [json-yaml.herokuapp.com](json-yaml.herokuapp.com)
+# [json-yaml.herokuapp.com](http://json-yaml.herokuapp.com)
 
 ```
 $ curl -X POST json-yaml.herokuapp.com/yaml/to/json -d '---
